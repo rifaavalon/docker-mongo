@@ -13,18 +13,6 @@ node1:
         - mongo
     ports:
         - "4000"
-node2:
-    build: ./node
-    links:
-        - mongo
-    ports:
-        - "4000"
-node3:
-    build: ./node
-    links:
-        - mongo
-    ports:
-        - "4000"
 mongo:
     image: mongo
     ports:
