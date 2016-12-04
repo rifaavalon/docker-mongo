@@ -1,4 +1,4 @@
-FROM 7.2.0-wheezy:node
+FROM node
 
 RUN mkdir -p /usr/src/app
 WORKDIR /usr/src/app
