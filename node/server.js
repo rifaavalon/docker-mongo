@@ -1,4 +1,4 @@
-'use strict';
+  'use strict';
 
 /*
  * nodejs-express-mongoose-demo
