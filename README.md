@@ -1,3 +1,4 @@
+[![Build Status](https://travis-ci.org/rifaavalon/docker-mongo.svg?branch=master)](https://travis-ci.org/rifaavalon/docker-mongo)
 # docker-mongo
 Hello! 
 
